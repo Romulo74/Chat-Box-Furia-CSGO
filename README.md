@@ -21,9 +21,5 @@ Este é um bot feito para fãs da equipe FURIA de CS:GO interagirem de forma div
 - VS Code para desenvolvimento
 - Git e GitHub para versionamento
 
-## 📲 Como Rodar Localmente
 
-1. Clone este repositório:
-   ```bash
-   
 Para acessar o bot, pesquise furiacsgobot no Telegram.
