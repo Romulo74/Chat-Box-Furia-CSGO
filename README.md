@@ -21,8 +21,9 @@ Este é um bot feito para fãs da equipe FURIA de CS:GO interagirem de forma div
 - VS Code para desenvolvimento
 - Git e GitHub para versionamento
 
-
-Para acessar o bot, pesquise furiacsgobot no Telegram.
+##🌍 Landing Page (opcional)
+[Em breve será adicionada uma landing page com contagem regressiva para os jogos da FURIA e integração com o bot.
+Para acessar o bot, pesquise furiacsgobot no Telegram.] (http://127.0.0.1:5500/Chat%20furia.html#quiz)
 
 ## 📷 Demonstração em Vídeo
 O vídeo demonstra como o usuário pode interagir com o bot, visualizar os jogos da FURIA e responder ao quiz.
