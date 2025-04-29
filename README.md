@@ -24,7 +24,7 @@ Este é um bot feito para fãs da equipe FURIA de CS:GO interagirem de forma div
 
 Para acessar o bot, pesquise furiacsgobot no Telegram.
 
-📷 Demonstração em Vídeo
+## 📷 Demonstração em Vídeo
 O vídeo demonstra como o usuário pode interagir com o bot, visualizar os jogos da FURIA e responder ao quiz.
 
 🔗 Link para o vídeo (YouTube/Drive)
