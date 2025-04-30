@@ -19,9 +19,10 @@ Este é um bot feito para fãs da equipe FURIA de CS:GO interagirem de forma div
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - API pública da HLTV para buscar jogos
 - VS Code para desenvolvimento
-- Git e GitHub para versionamento
+- GitHub para versionamento
 
-##🌍 Landing Page (opcional)
+##🌍 Landing Page
+
 [Em breve será adicionada uma landing page com contagem regressiva para os jogos da FURIA e integração com o bot.
 Para acessar o bot, pesquise furiacsgobot no Telegram.] (http://127.0.0.1:5500/Chat%20furia.html#quiz)
 
