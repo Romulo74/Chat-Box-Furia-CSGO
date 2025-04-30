@@ -30,6 +30,7 @@ Para acessar o bot, pesquise furiacsgobot no Telegram.] (http://127.0.0.1:5500/C
 O vídeo demonstra como o usuário pode interagir com o bot, visualizar os jogos da FURIA e responder ao quiz.
 
 🔗 Link para o vídeo (YouTube/Drive)
+https://youtu.be/Qoyq5_93rF4
 
 👤 Autor:
 Romulo Augusto Vieira.
